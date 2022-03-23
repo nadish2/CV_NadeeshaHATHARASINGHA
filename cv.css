@@ -14,9 +14,12 @@ font-style: italic;
 
 h4{
 	color: maroon;
+	text-shadow: brown;
 }
 h3{
 color: darkred;
+text-transform: capitalize;
+text-shadow: black;
 }
 
 h5{
