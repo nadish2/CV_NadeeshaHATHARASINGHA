@@ -31,12 +31,18 @@ h5{
 
 .p1{
 	color:  saddlebrown ;
+	background-color: #FFAFAF;
 }
 
 .p2{
 	color: moccasin;
+	background-color: FF9292;
 }
 
+.p3{
+	color:  saddlebrown ;
+	background-color: #FFAFAF;
+}
 table{
 	margin-left: 250px;
 }
