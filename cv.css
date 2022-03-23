@@ -1,9 +1,9 @@
 body{
-	background-color: #FF9999;
+	background-color: #FFE8E8;
 }
 
 a:hover{
-	color: floralwhite;
+	color: brown;
 }
 
 h1{
@@ -31,20 +31,20 @@ h5{
 
 .p1{
 	color:  saddlebrown ;
-	background-color: #FFAFAF;
+	background-color: #FFDCDC;
 }
 
 .p2{
-	color: moccasin;
-	background-color: FF9292;
+	color: saddlebrown;
+	background-color: #FFB4B4;
 }
 
 .p3{
 	color:  saddlebrown ;
-	background-color: #FFAFAF;
+	background-color: #FF9292;
 }
 table{
-	margin-left: 250px;
+	margin-left: 100px;
 }
 th{
 	color: antiquewhite;
@@ -55,3 +55,4 @@ td{
 	background-color: antiquewhite;
 	color: maroon;
 }
+
