@@ -1,0 +1,46 @@
+body{
+	background-color: #F68989;
+}
+
+a:hover{
+	color: floralwhite;
+}
+
+h1{
+font-weight: bolder;
+font-family: Georgia;
+font-style: italic;
+}
+
+h4{
+	color: maroon;
+}
+h3{
+color: darkred;
+}
+
+h5{
+	font-weight: italic;
+	color: brown;
+}
+
+.p1{
+	color:  saddlebrown ;
+}
+
+.p2{
+	color: moccasin;
+}
+
+table{
+	margin-left: 250px;
+}
+th{
+	color: antiquewhite;
+	background-color: brown;
+}
+
+td{
+	background-color: antiquewhite;
+	color: maroon;
+}
