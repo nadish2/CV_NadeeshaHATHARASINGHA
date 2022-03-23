@@ -1,5 +1,5 @@
 body{
-	background-color: #F68989;
+	background-color: #FF9999;
 }
 
 a:hover{
@@ -16,10 +16,12 @@ h4{
 	color: maroon;
 	text-shadow: brown;
 }
+
 h3{
 color: darkred;
 text-transform: capitalize;
 text-shadow: black;
+text-decoration: underline dashed;
 }
 
 h5{
